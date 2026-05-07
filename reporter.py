@@ -48,7 +48,7 @@ class HTMLReporter:
                 </table>
                 
                 <div class="footer">
-                    "Yo lo merezco, soy un imán de oportunidades."
+                    "Hecho con Amor y IA , por Daniel Morales Beita. Yo lo merezco, soy un imán de oportunidades."
                 </div>
             </div>
         </body>
