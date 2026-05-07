@@ -1,0 +1,7 @@
+# Este proyecto utiliza exclusivamente la librería estándar de Python 3.x
+# No se requieren dependencias externas para el funcionamiento del PMV.
+# Para ejecutarlo, solo asegúrate de tener Python instalado.
+
+# Futuras dependencias sugeridas para escalabilidad:
+# pytest==8.0.0       # Para pruebas unitarias del core
+# colorama==0.4.6     # Para mejorar la salida en consola
